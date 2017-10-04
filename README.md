@@ -1,5 +1,5 @@
-
-
+﻿
+![This is Cosmiko](https://drive.google.com/file/d/0B9KD5flXre_fZ1M4RmhoWkRHb28/view?usp=sharing)
 # Comiko
 #### Qu'est-ce que c'est?
 Comiko, c'est une application mobile qui permet de découvrir les humoristes et artistes locaux avec simplicité!
